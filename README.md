@@ -1,2 +1,2 @@
 # TERRI
-tentative d'epuisement rétroactive d'une relation illicite
+tentative d'épuisement rétroactive d'une relation illicite
