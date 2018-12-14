@@ -1,2 +1,2 @@
 # TERRI
-art project after georges perec
+ongoing art project after georges perec
