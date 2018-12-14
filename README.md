@@ -1,2 +1,2 @@
 # TERRI
-tentative d'épuisement rétroactif d'une relation illicite
+art project after georges perec
